@@ -1,0 +1,57 @@
+[
+  {
+    "id": "builtin_text-pSsHWg",
+    "formData": {
+      "text": "Olá, {{state.$r}}!! Seja bem vindo a Zinid, o lugar onde as aplicações acontecem. Eu sou o Rayan Diniz e vou te ajudar a escolher nossos serviços.",
+      "variations": [
+        "Olá, {{state.$r}}!",
+        "Bem vindo a Zinid, {{state.$r}}!"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-AY5SSW",
+    "formData": {
+      "text": "Agora vou precisar de seu CPF para continuar o atendimento.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:59:51.118Z"
+  },
+  {
+    "id": "builtin_text-TtzrCV",
+    "formData": {
+      "text": "Qual seu CPF?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:06:41.963Z"
+  },
+  {
+    "id": "builtin_text-z0J9qh",
+    "formData": {
+      "text": "Antes de começar, posso saber seu nome, por favor?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:08:41.241Z"
+  },
+  {
+    "id": "builtin_text-TUnlKJ",
+    "formData": {
+      "text": "OK! seu CPF é {{state.$cpf}}. Qual serviço deseja saber mais?",
+      "variations": [
+        "Manutenção de seus sistemas",
+        "Criação de seus sistemas",
+        "soluções para suas aplicações",
+        "Projeto especifico "
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-13T22:47:59.170Z"
+  }
+]
